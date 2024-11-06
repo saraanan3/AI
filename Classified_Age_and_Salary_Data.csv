@@ -1,0 +1,401 @@
+Age Category,Salary Category,Purchased
+Young,Low,0
+Middle age,Low,0
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Young,High,0
+Middle age,High,1
+Young,Low,0
+Middle age,Low,0
+Young,Low,0
+Young,Low,0
+Young,High,0
+Middle age,Low,0
+Young,Low,0
+Young,Low,0
+Old,Low,1
+Middle age,Low,1
+Old,Low,1
+Old,Low,1
+Middle age,Low,1
+Old,Low,1
+Old,Low,1
+Middle age,Low,1
+Old,Low,1
+Old,Low,1
+Old,Low,1
+Old,Low,1
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Young,High,1
+Young,Low,0
+Young,Low,0
+Young,High,0
+Middle age,Low,0
+Middle age,Low,0
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Middle age,Low,0
+Middle age,High,0
+Young,Low,0
+Young,High,0
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Young,High,1
+Young,High,0
+Young,Low,0
+Young,Low,0
+Young,High,0
+Middle age,Low,0
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Middle age,High,0
+Young,Low,0
+Young,High,0
+Young,Low,0
+Middle age,High,1
+Old,High,0
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Middle age,High,0
+Middle age,Low,0
+Middle age,High,1
+Young,Low,0
+Young,Low,0
+Young,High,0
+Young,Low,0
+Young,Low,0
+Middle age,Low,0
+Young,Low,0
+Middle age,High,0
+Young,Low,0
+Young,High,1
+Young,Low,0
+Young,High,0
+Young,Low,0
+Middle age,Low,0
+Young,Low,0
+Young,High,0
+Young,Low,0
+Young,Low,0
+Young,High,0
+Middle age,Low,0
+Middle age,Low,0
+Young,High,1
+Middle age,Low,0
+Young,Low,0
+Young,High,0
+Young,Low,0
+Middle age,High,0
+Middle age,High,1
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Young,High,0
+Young,High,0
+Middle age,Low,0
+Middle age,Low,0
+Middle age,Low,0
+Middle age,Low,0
+Middle age,Low,0
+Middle age,Low,0
+Middle age,Low,0
+Middle age,Low,0
+Middle age,Low,0
+Middle age,Low,0
+Middle age,Low,0
+Middle age,Low,0
+Middle age,Low,0
+Middle age,Low,0
+Middle age,Low,0
+Middle age,Low,0
+Middle age,Low,0
+Middle age,Low,0
+Young,Low,0
+Young,Low,0
+Young,High,0
+Young,Low,0
+Middle age,Low,0
+Young,High,0
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Young,High,1
+Young,Low,0
+Young,Low,0
+Young,High,0
+Young,Low,0
+Middle age,Low,0
+Young,High,0
+Middle age,Low,0
+Young,High,0
+Young,High,1
+Middle age,Low,0
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Middle age,Low,0
+Young,Low,0
+Middle age,Low,0
+Middle age,Low,0
+Young,Low,0
+Old,Low,0
+Young,Low,0
+Young,Low,0
+Middle age,High,1
+Middle age,High,1
+Young,High,0
+Middle age,Low,0
+Middle age,Low,0
+Middle age,Low,0
+Young,High,0
+Young,Low,0
+Middle age,Low,0
+Young,High,1
+Young,Low,0
+Young,High,0
+Middle age,High,0
+Young,High,0
+Middle age,Low,0
+Middle age,Low,0
+Young,Low,0
+Middle age,Low,0
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Middle age,High,1
+Middle age,Low,0
+Middle age,Low,0
+Young,Low,0
+Young,Low,0
+Middle age,Low,0
+Middle age,Low,0
+Young,Low,0
+Young,High,0
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Young,High,0
+Middle age,Low,0
+Young,Low,0
+Young,Low,0
+Young,Low,0
+Middle age,Low,0
+Middle age,Low,0
+Old,Low,0
+Middle age,High,1
+Middle age,Low,0
+Old,High,1
+Old,Low,0
+Old,High,1
+Old,High,0
+Middle age,High,1
+Old,Low,0
+Old,High,1
+Old,High,1
+Old,Low,0
+Middle age,Low,0
+Old,Low,0
+Old,High,1
+Old,Low,0
+Middle age,Low,0
+Old,High,0
+Old,High,1
+Middle age,Low,0
+Middle age,High,1
+Middle age,High,1
+Old,High,1
+Middle age,Low,0
+Middle age,Low,0
+Middle age,High,1
+Old,High,1
+Middle age,Low,0
+Middle age,Low,1
+Middle age,High,1
+Middle age,Low,0
+Middle age,High,1
+Old,High,1
+Middle age,High,0
+Old,Low,1
+Middle age,Low,0
+Middle age,Low,0
+Old,Low,0
+Old,High,1
+Middle age,High,1
+Middle age,Low,0
+Old,High,1
+Old,High,1
+Middle age,Low,0
+Old,High,1
+Middle age,Low,0
+Old,High,1
+Middle age,Low,0
+Middle age,High,1
+Middle age,Low,0
+Middle age,Low,0
+Old,High,1
+Middle age,High,1
+Old,Low,0
+Old,High,1
+Middle age,Low,0
+Middle age,Low,0
+Old,High,1
+Middle age,High,1
+Middle age,Low,0
+Middle age,High,1
+Old,High,1
+Middle age,Low,0
+Old,High,1
+Middle age,High,1
+Middle age,Low,0
+Middle age,Low,0
+Old,High,1
+Middle age,Low,0
+Middle age,High,0
+Old,Low,1
+Old,Low,1
+Middle age,High,1
+Old,Low,1
+Old,Low,1
+Middle age,Low,0
+Old,High,1
+Old,Low,1
+Old,Low,1
+Old,High,1
+Middle age,Low,0
+Middle age,Low,1
+Old,Low,1
+Old,High,0
+Middle age,High,1
+Middle age,Low,0
+Old,High,1
+Middle age,Low,0
+Middle age,Low,1
+Middle age,High,1
+Old,High,1
+Old,Low,1
+Middle age,Low,0
+Middle age,Low,0
+Middle age,Low,0
+Middle age,Low,1
+Middle age,High,1
+Middle age,Low,0
+Old,High,1
+Old,Low,1
+Old,Low,1
+Middle age,High,1
+Middle age,Low,1
+Middle age,Low,0
+Middle age,Low,0
+Old,High,0
+Old,High,1
+Middle age,High,1
+Middle age,Low,0
+Middle age,Low,0
+Middle age,High,1
+Middle age,Low,0
+Old,High,1
+Middle age,Low,0
+Middle age,Low,1
+Old,High,1
+Middle age,Low,0
+Middle age,Low,1
+Middle age,Low,0
+Old,High,1
+Old,Low,1
+Middle age,Low,0
+Old,Low,1
+Old,High,1
+Middle age,Low,0
+Middle age,Low,0
+Middle age,Low,0
+Middle age,High,1
+Old,High,1
+Middle age,Low,0
+Old,High,1
+Middle age,Low,0
+Middle age,Low,0
+Old,Low,1
+Middle age,Low,0
+Old,High,1
+Middle age,Low,0
+Middle age,Low,0
+Middle age,High,1
+Old,High,1
+Middle age,Low,0
+Middle age,Low,0
+Old,Low,1
+Old,High,1
+Middle age,Low,0
+Old,Low,1
+Old,High,1
+Middle age,Low,0
+Middle age,Low,0
+Middle age,High,1
+Middle age,Low,0
+Middle age,High,1
+Middle age,Low,0
+Middle age,High,1
+Old,Low,1
+Old,Low,1
+Middle age,Low,0
+Middle age,Low,1
+Middle age,Low,0
+Middle age,High,1
+Old,Low,1
+Old,Low,1
+Middle age,Low,0
+Middle age,High,1
+Old,Low,1
+Old,Low,1
+Old,High,1
+Middle age,Low,0
+Old,Low,1
+Old,Low,1
+Old,High,1
+Middle age,Low,0
+Old,High,1
+Middle age,Low,0
+Old,Low,1
+Old,Low,0
+Middle age,Low,0
+Middle age,High,1
+Old,Low,1
+Middle age,Low,0
+Old,Low,1
+Middle age,High,1
+Old,Low,1
+Old,Low,1
+Old,Low,1
+Old,Low,1
+Middle age,Low,0
+Old,Low,1
+Old,Low,1
+Old,Low,1
+Old,Low,1
+Middle age,Low,1
+Old,Low,1
+Middle age,Low,0
+Old,Low,1
+Old,Low,1
+Old,Low,1
+Middle age,Low,0
+Old,Low,1
