@@ -1,0 +1,401 @@
+Age Category,Salary Category,Purchased,Combine
+Young,Low,0,YL
+Middle age,Low,0,ML
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Young,High,0,YH
+Middle age,High,1,MH
+Young,Low,0,YL
+Middle age,Low,0,ML
+Young,Low,0,YL
+Young,Low,0,YL
+Young,High,0,YH
+Middle age,Low,0,ML
+Young,Low,0,YL
+Young,Low,0,YL
+Old,Low,1,OL
+Middle age,Low,1,ML
+Old,Low,1,OL
+Old,Low,1,OL
+Middle age,Low,1,ML
+Old,Low,1,OL
+Old,Low,1,OL
+Middle age,Low,1,ML
+Old,Low,1,OL
+Old,Low,1,OL
+Old,Low,1,OL
+Old,Low,1,OL
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Young,High,1,YH
+Young,Low,0,YL
+Young,Low,0,YL
+Young,High,0,YH
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Middle age,Low,0,ML
+Middle age,High,0,MH
+Young,Low,0,YL
+Young,High,0,YH
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Young,High,1,YH
+Young,High,0,YH
+Young,Low,0,YL
+Young,Low,0,YL
+Young,High,0,YH
+Middle age,Low,0,ML
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Middle age,High,0,MH
+Young,Low,0,YL
+Young,High,0,YH
+Young,Low,0,YL
+Middle age,High,1,MH
+Old,High,0,OH
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Middle age,High,0,MH
+Middle age,Low,0,ML
+Middle age,High,1,MH
+Young,Low,0,YL
+Young,Low,0,YL
+Young,High,0,YH
+Young,Low,0,YL
+Young,Low,0,YL
+Middle age,Low,0,ML
+Young,Low,0,YL
+Middle age,High,0,MH
+Young,Low,0,YL
+Young,High,1,YH
+Young,Low,0,YL
+Young,High,0,YH
+Young,Low,0,YL
+Middle age,Low,0,ML
+Young,Low,0,YL
+Young,High,0,YH
+Young,Low,0,YL
+Young,Low,0,YL
+Young,High,0,YH
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Young,High,1,YH
+Middle age,Low,0,ML
+Young,Low,0,YL
+Young,High,0,YH
+Young,Low,0,YL
+Middle age,High,0,MH
+Middle age,High,1,MH
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Young,High,0,YH
+Young,High,0,YH
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Young,Low,0,YL
+Young,Low,0,YL
+Young,High,0,YH
+Young,Low,0,YL
+Middle age,Low,0,ML
+Young,High,0,YH
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Young,High,1,YH
+Young,Low,0,YL
+Young,Low,0,YL
+Young,High,0,YH
+Young,Low,0,YL
+Middle age,Low,0,ML
+Young,High,0,YH
+Middle age,Low,0,ML
+Young,High,0,YH
+Young,High,1,YH
+Middle age,Low,0,ML
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Middle age,Low,0,ML
+Young,Low,0,YL
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Young,Low,0,YL
+Old,Low,0,OL
+Young,Low,0,YL
+Young,Low,0,YL
+Middle age,High,1,MH
+Middle age,High,1,MH
+Young,High,0,YH
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Young,High,0,YH
+Young,Low,0,YL
+Middle age,Low,0,ML
+Young,High,1,YH
+Young,Low,0,YL
+Young,High,0,YH
+Middle age,High,0,MH
+Young,High,0,YH
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Young,Low,0,YL
+Middle age,Low,0,ML
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Middle age,High,1,MH
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Young,Low,0,YL
+Young,Low,0,YL
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Young,Low,0,YL
+Young,High,0,YH
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Young,High,0,YH
+Middle age,Low,0,ML
+Young,Low,0,YL
+Young,Low,0,YL
+Young,Low,0,YL
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Old,Low,0,OL
+Middle age,High,1,MH
+Middle age,Low,0,ML
+Old,High,1,OH
+Old,Low,0,OL
+Old,High,1,OH
+Old,High,0,OH
+Middle age,High,1,MH
+Old,Low,0,OL
+Old,High,1,OH
+Old,High,1,OH
+Old,Low,0,OL
+Middle age,Low,0,ML
+Old,Low,0,OL
+Old,High,1,OH
+Old,Low,0,OL
+Middle age,Low,0,ML
+Old,High,0,OH
+Old,High,1,OH
+Middle age,Low,0,ML
+Middle age,High,1,MH
+Middle age,High,1,MH
+Old,High,1,OH
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,High,1,MH
+Old,High,1,OH
+Middle age,Low,0,ML
+Middle age,Low,1,ML
+Middle age,High,1,MH
+Middle age,Low,0,ML
+Middle age,High,1,MH
+Old,High,1,OH
+Middle age,High,0,MH
+Old,Low,1,OL
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Old,Low,0,OL
+Old,High,1,OH
+Middle age,High,1,MH
+Middle age,Low,0,ML
+Old,High,1,OH
+Old,High,1,OH
+Middle age,Low,0,ML
+Old,High,1,OH
+Middle age,Low,0,ML
+Old,High,1,OH
+Middle age,Low,0,ML
+Middle age,High,1,MH
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Old,High,1,OH
+Middle age,High,1,MH
+Old,Low,0,OL
+Old,High,1,OH
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Old,High,1,OH
+Middle age,High,1,MH
+Middle age,Low,0,ML
+Middle age,High,1,MH
+Old,High,1,OH
+Middle age,Low,0,ML
+Old,High,1,OH
+Middle age,High,1,MH
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Old,High,1,OH
+Middle age,Low,0,ML
+Middle age,High,0,MH
+Old,Low,1,OL
+Old,Low,1,OL
+Middle age,High,1,MH
+Old,Low,1,OL
+Old,Low,1,OL
+Middle age,Low,0,ML
+Old,High,1,OH
+Old,Low,1,OL
+Old,Low,1,OL
+Old,High,1,OH
+Middle age,Low,0,ML
+Middle age,Low,1,ML
+Old,Low,1,OL
+Old,High,0,OH
+Middle age,High,1,MH
+Middle age,Low,0,ML
+Old,High,1,OH
+Middle age,Low,0,ML
+Middle age,Low,1,ML
+Middle age,High,1,MH
+Old,High,1,OH
+Old,Low,1,OL
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,Low,1,ML
+Middle age,High,1,MH
+Middle age,Low,0,ML
+Old,High,1,OH
+Old,Low,1,OL
+Old,Low,1,OL
+Middle age,High,1,MH
+Middle age,Low,1,ML
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Old,High,0,OH
+Old,High,1,OH
+Middle age,High,1,MH
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,High,1,MH
+Middle age,Low,0,ML
+Old,High,1,OH
+Middle age,Low,0,ML
+Middle age,Low,1,ML
+Old,High,1,OH
+Middle age,Low,0,ML
+Middle age,Low,1,ML
+Middle age,Low,0,ML
+Old,High,1,OH
+Old,Low,1,OL
+Middle age,Low,0,ML
+Old,Low,1,OL
+Old,High,1,OH
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,High,1,MH
+Old,High,1,OH
+Middle age,Low,0,ML
+Old,High,1,OH
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Old,Low,1,OL
+Middle age,Low,0,ML
+Old,High,1,OH
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,High,1,MH
+Old,High,1,OH
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Old,Low,1,OL
+Old,High,1,OH
+Middle age,Low,0,ML
+Old,Low,1,OL
+Old,High,1,OH
+Middle age,Low,0,ML
+Middle age,Low,0,ML
+Middle age,High,1,MH
+Middle age,Low,0,ML
+Middle age,High,1,MH
+Middle age,Low,0,ML
+Middle age,High,1,MH
+Old,Low,1,OL
+Old,Low,1,OL
+Middle age,Low,0,ML
+Middle age,Low,1,ML
+Middle age,Low,0,ML
+Middle age,High,1,MH
+Old,Low,1,OL
+Old,Low,1,OL
+Middle age,Low,0,ML
+Middle age,High,1,MH
+Old,Low,1,OL
+Old,Low,1,OL
+Old,High,1,OH
+Middle age,Low,0,ML
+Old,Low,1,OL
+Old,Low,1,OL
+Old,High,1,OH
+Middle age,Low,0,ML
+Old,High,1,OH
+Middle age,Low,0,ML
+Old,Low,1,OL
+Old,Low,0,OL
+Middle age,Low,0,ML
+Middle age,High,1,MH
+Old,Low,1,OL
+Middle age,Low,0,ML
+Old,Low,1,OL
+Middle age,High,1,MH
+Old,Low,1,OL
+Old,Low,1,OL
+Old,Low,1,OL
+Old,Low,1,OL
+Middle age,Low,0,ML
+Old,Low,1,OL
+Old,Low,1,OL
+Old,Low,1,OL
+Old,Low,1,OL
+Middle age,Low,1,ML
+Old,Low,1,OL
+Middle age,Low,0,ML
+Old,Low,1,OL
+Old,Low,1,OL
+Old,Low,1,OL
+Middle age,Low,0,ML
+Old,Low,1,OL
